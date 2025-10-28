@@ -3,17 +3,20 @@ Welcome to the Diwali Sales Analysis project which I have completed on 11th June
 ****Key Analysis Steps****
 
 🧹 Data Cleaning & Preprocessing
+
 **Tools used:** Power Query, Python
 Handling null values
 Formatting columns
 Converting data types
 
 📊 Exploratory Data Analysis (EDA)
+
 Gender-wise, age-wise and city-wise purchase patterns
 Top product categories
 Average spending by demographic
 
 🎨 Visualization
+
 **Tools Used:** Python(Matplotlib, Seaborn)
 Bar plots, histograms, pie charts
 Most bought customer category was prominently displayed
