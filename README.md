@@ -1,54 +1,59 @@
-Welcome to the Diwali Sales Analysis project which I have completed on 11th June 2025! This repository contains Python code and Jupyter notebooks to explore and analyze Diwali sales data to uncover insights that can drive business decisions such as targeted marketing, customer segmentation and sales optimization.
+**🎆 Diwali Sales Analysis — Python Project**
 
-****Key Analysis Steps****
+**⚙️ Tech Stack**
+
+Python • Pandas • NumPy • Matplotlib • Seaborn • Power Query • Power BI
+
+**Completed on:** 11th June 2025
+
+Welcome to the Diwali Sales Analysis Project, where I explored and analyzed festive sales data using Python and Power BI to uncover insights that can drive targeted marketing, customer segmentation, and sales optimization.
 
 **🧹 Data Cleaning & Preprocessing**
 
-**Tools used:** Power Query, Python
+Tools Used: Python (Pandas, NumPy), Power Query
 
-Handling null values
+• Handled missing and duplicate values
 
-Formatting columns
+• Formatted and standardized data columns
 
-Converting data types
+• Converted data types for consistency
 
 **📊 Exploratory Data Analysis (EDA)**
 
-Gender-wise, age-wise and city-wise purchase patterns
+Tools Used: Python (Pandas, Seaborn, Matplotlib)
 
-Top product categories
+• Analyzed gender-, age-, and city-wise purchase patterns
 
-Average spending by demographic
+• Identified top product categories and high-value customer groups
+
+• Evaluated average spending trends across demographics
 
 **🎨 Visualization**
 
-**Tools Used:** Python(Matplotlib, Seaborn)
+Tools Used: Python (Matplotlib, Seaborn), Power BI
 
-Bar plots, histograms, pie charts
+• Created bar charts, histograms, and pie charts for sales insights
 
-Most bought customer category was prominently displayed
+• Designed Power BI visuals for demographic segmentation and revenue breakdowns
 
-Actionable insights for marketing and product placement
+• Highlighted top customer and product segments for focused strategies
 
 **💡 Business Impact & Recommendations**
 
-1. Targeting Married Women (26–35 Age Group)
+🎯 Target Married Women (26–35 Age Group)
 
-This segment showed the highest purchase frequency and total spend, suggesting strong festive buying power.
+• Highest purchase frequency and total spend
 
-📈 Recommendation: Increase promotional offers and personalized campaigns for this demographic via online and retail channels.
+• Recommendation: Personalized offers and festive campaigns for this group
 
-2. Focus Marketing in Tier-1 States (Maharashtra, Karnataka, Uttar Pradesh, etc.)
+🌍 Focus on Tier-1 States (Maharashtra, Karnataka, Uttar Pradesh, etc.)
 
-Customers from Tier-1 states contributed the majority of total revenue.
+• Major revenue contribution from these regions
 
-📊 Recommendation: Allocate higher ad budgets and festive discounts to these high-performing regions.
+• Recommendation: Allocate higher ad budgets and regional promotions
 
-3. Promote Top-Selling Product Categories
+🛍️ Promote Top-Selling Categories (Electronics, Clothing)
 
-Product categories like Electronics and Clothing generated maximum sales during the Diwali season.
+• Strong festive demand and repeat purchase potential
 
-🛍️ Recommendation: Offer bundle deals or limited-time discounts to increase repeat purchases
-
-
-Project completion date: 11th June 2025
+• Recommendation: Offer bundle deals and limited-time festive discounts
