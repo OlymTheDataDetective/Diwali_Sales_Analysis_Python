@@ -6,7 +6,7 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Power Query • Power
 
 **Completed on:** 11th June 2025
 
-Welcome to the Diwali Sales Analysis Project, where I explored and analyzed festive sales data using Python and Power BI to uncover insights that can drive targeted marketing, customer segmentation, and sales optimization.
+Welcome to the Diwali Sales Analysis Project, where I explored and analyzed festive sales data using Python and Power BI to uncover insights that can drive targeted marketing, customer segmentation and sales optimization.
 
 **🧹 Data Cleaning & Preprocessing**
 
@@ -22,7 +22,7 @@ Tools Used: Python (Pandas, NumPy), Power Query
 
 Tools Used: Python (Pandas, Seaborn, Matplotlib)
 
-• Analyzed gender-, age-, and city-wise purchase patterns
+• Analyzed gender, age and city-wise purchase patterns
 
 • Identified top product categories and high-value customer groups
 
@@ -32,7 +32,7 @@ Tools Used: Python (Pandas, Seaborn, Matplotlib)
 
 Tools Used: Python (Matplotlib, Seaborn), Power BI
 
-• Created bar charts, histograms, and pie charts for sales insights
+• Created bar charts, histograms and pie charts for sales insights
 
 • Designed Power BI visuals for demographic segmentation and revenue breakdowns
 
