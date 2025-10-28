@@ -1,4 +1,4 @@
-Welcome to the Diwali Sales Analysis project! This repository contains Python code and Jupyter notebooks to explore and analyze Diwali sales data to uncover insights that can drive business decisions such as targeted marketing, customer segmentation, and sales optimization.
+Welcome to the Diwali Sales Analysis project! This repository contains Python code and Jupyter notebooks to explore and analyze Diwali sales data to uncover insights that can drive business decisions such as targeted marketing, customer segmentation and sales optimization.
 Key Analysis Steps
 
 1. Data Cleaning & Preprocessing
