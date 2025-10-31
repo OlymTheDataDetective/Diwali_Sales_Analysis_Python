@@ -1,4 +1,4 @@
-**🎆 Diwali Sales Analysis — Python Project**
+**🎆 Festive Sales Analysis — Python Project**
 
 **⚙️ Tech Stack**
 
